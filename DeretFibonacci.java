@@ -10,6 +10,7 @@ public class DeretFibonacci {
 
        public static void main(String[] args) {
         Scanner input = new Scanner (System.in);
+        System.out.println("Reska")
         
         System.out.println("Masukkan Angka : ");
         int num = input.nextInt();
